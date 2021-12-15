@@ -1,9 +1,10 @@
 import React from 'react';
+import './MobileUI.css'
 
 const MobileUI = ()=> {
   return (
-    <div>
-      Hello Moile UI
+    <div className="mobileUI">
+      Hello mobileUI
     </div>
   )
 }
